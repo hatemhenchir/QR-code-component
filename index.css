@@ -1,0 +1,35 @@
+.attribution{
+    font-size: 0.7rem;
+    display: block;
+    font-family: "Outfit",sans-serif;  
+    font-weight: 400;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+
+    
+
+}
+
+#card{
+    width: 19.5rem;
+    height: 30rem;
+    background-color: hsl(0, 0%, 100%);
+}
+h1{
+    font-size: 1.35rem;
+    font-family: "Outfit",sans-serif;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+p{
+    font-family: "Outfit",sans-serif;
+    font-weight: 400;
+    font-size: 0.95rem;
+    color: hsl(220, 15%, 55%);
+}
